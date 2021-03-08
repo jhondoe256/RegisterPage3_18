@@ -1,0 +1,130 @@
+body
+{
+    background-color: rgb(12, 169, 241);
+    margin:0;
+}
+
+.navigation
+{
+    background-color: white;
+    height: 3em;
+    box-shadow: 0px 10px 8px #818181;
+    
+}
+
+.buttons
+{
+    float: right;
+    padding:.8em;
+    
+}
+
+.container{
+
+    margin-left: 45%;
+    margin-top: 10%;
+    width:280px;
+    height:415px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5%;
+    box-shadow: 10px 10px 8px #818181;
+}
+
+.formBody
+{
+    margin-left: 20%;
+    
+}
+
+.eMailField
+{
+    margin-bottom:20px;
+}
+
+.userNameField
+{
+    margin-bottom: 20px;
+}
+
+.passwordField
+{
+    margin-bottom: 20px;
+}
+
+.confirmPasswordField
+{
+    margin-bottom: 20px;
+}
+
+.SignUp
+{
+    margin: .2em;
+    padding: .8em;
+    color:black;
+}
+
+.Submit
+{
+    width: 75%;
+    display: block;
+}
+
+.amazonIcon
+{
+    width:2em;
+    height:2em;
+    margin-top: 1em;
+    
+}
+
+.facebookIcon
+{
+    width:2.5em;
+    height:2.3em;
+    margin-top: .5em;
+}
+
+.githubIcon
+{
+    width:2.5em;
+    height:2.3em;
+    margin-top: .5em;
+}
+
+.slackIcon
+{
+    width:.3em;
+    height:.3em;
+}
+
+.instagramIcon
+{
+    margin-top:.4em;
+    position: absolute;
+    width:2.8em;
+    height:2.8em;
+}
+
+.Submit
+{
+    color:white;
+    background-color: rgb(62, 135, 245);
+    border-radius: .25em;
+    padding:.55em;
+}
+
+.AboutUs
+{
+    color:white;
+    background-color: rgb(62, 135, 245);
+    border-radius: .25em;
+    padding:.55em;
+}
+
+.Register
+{
+    color:white;
+    background-color: rgb(62, 135, 245);
+    border-radius: .25em;
+    padding:.55em;
+}
